@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a food delivery website<br>👯 I’m looking for opportunities in the field of web development as a full stack web engineer<br>🌱 I’m currently learning AI and its implementations
+🔭 I’m currently working on a food delivery website<br>👯 I’m looking for opportunities in the field of web development as a full stack web engineer<br>🌱 I’m currently learning DevOps
 
 
 ## 🌐 Socials:
